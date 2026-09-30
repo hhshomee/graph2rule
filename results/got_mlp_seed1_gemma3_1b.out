@@ -1,0 +1,76 @@
+
+Ep 01 | Train Loss: 0.7392 | Train Acc: 0.469 | Val Loss: 0.7004 | Val Acc: 0.559 | Val Bin-F1: 0.589 | Val Macro-F1: 0.557 | Best Val Macro-F1: 0.557 (Ep 1)
+Ep 02 | Train Loss: 0.4464 | Train Acc: 0.829 | Val Loss: 0.9895 | Val Acc: 0.429 | Val Bin-F1: 0.460 | Val Macro-F1: 0.428 | Best Val Macro-F1: 0.557 (Ep 1)
+Ep 03 | Train Loss: 0.2111 | Train Acc: 0.914 | Val Loss: 1.3058 | Val Acc: 0.435 | Val Bin-F1: 0.375 | Val Macro-F1: 0.430 | Best Val Macro-F1: 0.557 (Ep 1)
+Ep 04 | Train Loss: 0.1171 | Train Acc: 0.967 | Val Loss: 1.2863 | Val Acc: 0.418 | Val Bin-F1: 0.431 | Val Macro-F1: 0.418 | Best Val Macro-F1: 0.557 (Ep 1)
+Ep 05 | Train Loss: 0.1025 | Train Acc: 0.963 | Val Loss: 1.3726 | Val Acc: 0.452 | Val Bin-F1: 0.419 | Val Macro-F1: 0.450 | Best Val Macro-F1: 0.557 (Ep 1)
+Ep 06 | Train Loss: 0.0756 | Train Acc: 0.973 | Val Loss: 1.4073 | Val Acc: 0.435 | Val Bin-F1: 0.398 | Val Macro-F1: 0.433 | Best Val Macro-F1: 0.557 (Ep 1)
+Ep 07 | Train Loss: 0.0558 | Train Acc: 0.979 | Val Loss: 1.7820 | Val Acc: 0.435 | Val Bin-F1: 0.490 | Val Macro-F1: 0.428 | Best Val Macro-F1: 0.557 (Ep 1)
+Ep 08 | Train Loss: 0.0601 | Train Acc: 0.981 | Val Loss: 1.7205 | Val Acc: 0.407 | Val Bin-F1: 0.444 | Val Macro-F1: 0.404 | Best Val Macro-F1: 0.557 (Ep 1)
+Ep 09 | Train Loss: 0.0774 | Train Acc: 0.976 | Val Loss: 1.6515 | Val Acc: 0.452 | Val Bin-F1: 0.458 | Val Macro-F1: 0.452 | Best Val Macro-F1: 0.557 (Ep 1)
+Ep 10 | Train Loss: 0.0574 | Train Acc: 0.983 | Val Loss: 1.7072 | Val Acc: 0.475 | Val Bin-F1: 0.513 | Val Macro-F1: 0.471 | Best Val Macro-F1: 0.557 (Ep 1)
+Ep 11 | Train Loss: 0.0411 | Train Acc: 0.984 | Val Loss: 1.7525 | Val Acc: 0.441 | Val Bin-F1: 0.434 | Val Macro-F1: 0.441 | Best Val Macro-F1: 0.557 (Ep 1)
+Ep 12 | Train Loss: 0.0452 | Train Acc: 0.986 | Val Loss: 1.7684 | Val Acc: 0.424 | Val Bin-F1: 0.446 | Val Macro-F1: 0.423 | Best Val Macro-F1: 0.557 (Ep 1)
+Ep 13 | Train Loss: 0.0376 | Train Acc: 0.986 | Val Loss: 2.1173 | Val Acc: 0.418 | Val Bin-F1: 0.376 | Val Macro-F1: 0.415 | Best Val Macro-F1: 0.557 (Ep 1)
+Ep 14 | Train Loss: 0.0608 | Train Acc: 0.979 | Val Loss: 1.7471 | Val Acc: 0.412 | Val Bin-F1: 0.441 | Val Macro-F1: 0.411 | Best Val Macro-F1: 0.557 (Ep 1)
+Ep 15 | Train Loss: 0.0542 | Train Acc: 0.984 | Val Loss: 1.6178 | Val Acc: 0.441 | Val Bin-F1: 0.447 | Val Macro-F1: 0.441 | Best Val Macro-F1: 0.557 (Ep 1)
+Ep 16 | Train Loss: 0.0432 | Train Acc: 0.985 | Val Loss: 1.6698 | Val Acc: 0.480 | Val Bin-F1: 0.521 | Val Macro-F1: 0.476 | Best Val Macro-F1: 0.557 (Ep 1)
+Ep 17 | Train Loss: 0.0271 | Train Acc: 0.993 | Val Loss: 1.7505 | Val Acc: 0.469 | Val Bin-F1: 0.382 | Val Macro-F1: 0.458 | Best Val Macro-F1: 0.557 (Ep 1)
+Ep 18 | Train Loss: 0.0143 | Train Acc: 0.995 | Val Loss: 1.8905 | Val Acc: 0.446 | Val Bin-F1: 0.410 | Val Macro-F1: 0.444 | Best Val Macro-F1: 0.557 (Ep 1)
+Ep 19 | Train Loss: 0.0138 | Train Acc: 0.995 | Val Loss: 1.9252 | Val Acc: 0.480 | Val Bin-F1: 0.465 | Val Macro-F1: 0.480 | Best Val Macro-F1: 0.557 (Ep 1)
+Ep 20 | Train Loss: 0.0156 | Train Acc: 0.993 | Val Loss: 2.1134 | Val Acc: 0.446 | Val Bin-F1: 0.380 | Val Macro-F1: 0.440 | Best Val Macro-F1: 0.557 (Ep 1)
+Ep 21 | Train Loss: 0.0287 | Train Acc: 0.990 | Val Loss: 2.2260 | Val Acc: 0.446 | Val Bin-F1: 0.355 | Val Macro-F1: 0.435 | Best Val Macro-F1: 0.557 (Ep 1)
+Ep 22 | Train Loss: 0.0444 | Train Acc: 0.981 | Val Loss: 1.9219 | Val Acc: 0.441 | Val Bin-F1: 0.385 | Val Macro-F1: 0.436 | Best Val Macro-F1: 0.557 (Ep 1)
+Ep 23 | Train Loss: 0.0374 | Train Acc: 0.988 | Val Loss: 2.0593 | Val Acc: 0.458 | Val Bin-F1: 0.495 | Val Macro-F1: 0.455 | Best Val Macro-F1: 0.557 (Ep 1)
+Ep 24 | Train Loss: 0.0165 | Train Acc: 0.995 | Val Loss: 2.1451 | Val Acc: 0.424 | Val Bin-F1: 0.386 | Val Macro-F1: 0.421 | Best Val Macro-F1: 0.557 (Ep 1)
+Ep 25 | Train Loss: 0.0280 | Train Acc: 0.990 | Val Loss: 2.2971 | Val Acc: 0.429 | Val Bin-F1: 0.423 | Val Macro-F1: 0.429 | Best Val Macro-F1: 0.557 (Ep 1)
+Ep 26 | Train Loss: 0.0319 | Train Acc: 0.990 | Val Loss: 2.2520 | Val Acc: 0.418 | Val Bin-F1: 0.418 | Val Macro-F1: 0.418 | Best Val Macro-F1: 0.557 (Ep 1)
+Ep 27 | Train Loss: 0.0334 | Train Acc: 0.990 | Val Loss: 2.2235 | Val Acc: 0.395 | Val Bin-F1: 0.389 | Val Macro-F1: 0.395 | Best Val Macro-F1: 0.557 (Ep 1)
+Ep 28 | Train Loss: 0.0292 | Train Acc: 0.991 | Val Loss: 1.9956 | Val Acc: 0.429 | Val Bin-F1: 0.348 | Val Macro-F1: 0.420 | Best Val Macro-F1: 0.557 (Ep 1)
+Ep 29 | Train Loss: 0.0257 | Train Acc: 0.990 | Val Loss: 2.2266 | Val Acc: 0.401 | Val Bin-F1: 0.404 | Val Macro-F1: 0.401 | Best Val Macro-F1: 0.557 (Ep 1)
+Ep 30 | Train Loss: 0.0178 | Train Acc: 0.994 | Val Loss: 2.1737 | Val Acc: 0.458 | Val Bin-F1: 0.435 | Val Macro-F1: 0.457 | Best Val Macro-F1: 0.557 (Ep 1)
+Ep 31 | Train Loss: 0.0549 | Train Acc: 0.985 | Val Loss: 2.2615 | Val Acc: 0.441 | Val Bin-F1: 0.256 | Val Macro-F1: 0.404 | Best Val Macro-F1: 0.557 (Ep 1)
+Ep 32 | Train Loss: 0.0449 | Train Acc: 0.989 | Val Loss: 1.8389 | Val Acc: 0.418 | Val Bin-F1: 0.309 | Val Macro-F1: 0.403 | Best Val Macro-F1: 0.557 (Ep 1)
+Ep 33 | Train Loss: 0.0201 | Train Acc: 0.995 | Val Loss: 2.1275 | Val Acc: 0.412 | Val Bin-F1: 0.388 | Val Macro-F1: 0.412 | Best Val Macro-F1: 0.557 (Ep 1)
+Ep 34 | Train Loss: 0.0274 | Train Acc: 0.993 | Val Loss: 2.0886 | Val Acc: 0.418 | Val Bin-F1: 0.299 | Val Macro-F1: 0.401 | Best Val Macro-F1: 0.557 (Ep 1)
+Ep 35 | Train Loss: 0.0200 | Train Acc: 0.992 | Val Loss: 2.2489 | Val Acc: 0.424 | Val Bin-F1: 0.407 | Val Macro-F1: 0.423 | Best Val Macro-F1: 0.557 (Ep 1)
+Ep 36 | Train Loss: 0.0235 | Train Acc: 0.992 | Val Loss: 2.4556 | Val Acc: 0.458 | Val Bin-F1: 0.422 | Val Macro-F1: 0.456 | Best Val Macro-F1: 0.557 (Ep 1)
+Ep 37 | Train Loss: 0.0318 | Train Acc: 0.990 | Val Loss: 2.2554 | Val Acc: 0.452 | Val Bin-F1: 0.458 | Val Macro-F1: 0.452 | Best Val Macro-F1: 0.557 (Ep 1)
+Ep 38 | Train Loss: 0.0116 | Train Acc: 0.996 | Val Loss: 2.3071 | Val Acc: 0.435 | Val Bin-F1: 0.383 | Val Macro-F1: 0.431 | Best Val Macro-F1: 0.557 (Ep 1)
+Ep 39 | Train Loss: 0.0304 | Train Acc: 0.992 | Val Loss: 2.3636 | Val Acc: 0.401 | Val Bin-F1: 0.354 | Val Macro-F1: 0.398 | Best Val Macro-F1: 0.557 (Ep 1)
+Ep 40 | Train Loss: 0.0180 | Train Acc: 0.993 | Val Loss: 2.2394 | Val Acc: 0.435 | Val Bin-F1: 0.405 | Val Macro-F1: 0.434 | Best Val Macro-F1: 0.557 (Ep 1)
+Ep 41 | Train Loss: 0.0113 | Train Acc: 0.993 | Val Loss: 2.5125 | Val Acc: 0.407 | Val Bin-F1: 0.407 | Val Macro-F1: 0.407 | Best Val Macro-F1: 0.557 (Ep 1)
+Ep 42 | Train Loss: 0.0286 | Train Acc: 0.992 | Val Loss: 2.3395 | Val Acc: 0.452 | Val Bin-F1: 0.508 | Val Macro-F1: 0.445 | Best Val Macro-F1: 0.557 (Ep 1)
+Ep 43 | Train Loss: 0.0163 | Train Acc: 0.995 | Val Loss: 2.3717 | Val Acc: 0.424 | Val Bin-F1: 0.440 | Val Macro-F1: 0.423 | Best Val Macro-F1: 0.557 (Ep 1)
+Ep 44 | Train Loss: 0.0194 | Train Acc: 0.994 | Val Loss: 2.5687 | Val Acc: 0.429 | Val Bin-F1: 0.380 | Val Macro-F1: 0.426 | Best Val Macro-F1: 0.557 (Ep 1)
+Ep 45 | Train Loss: 0.0124 | Train Acc: 0.995 | Val Loss: 2.5905 | Val Acc: 0.418 | Val Bin-F1: 0.418 | Val Macro-F1: 0.418 | Best Val Macro-F1: 0.557 (Ep 1)
+Ep 46 | Train Loss: 0.0260 | Train Acc: 0.990 | Val Loss: 2.5167 | Val Acc: 0.424 | Val Bin-F1: 0.446 | Val Macro-F1: 0.423 | Best Val Macro-F1: 0.557 (Ep 1)
+Ep 47 | Train Loss: 0.0166 | Train Acc: 0.997 | Val Loss: 2.4887 | Val Acc: 0.412 | Val Bin-F1: 0.469 | Val Macro-F1: 0.406 | Best Val Macro-F1: 0.557 (Ep 1)
+Ep 48 | Train Loss: 0.0306 | Train Acc: 0.989 | Val Loss: 2.4651 | Val Acc: 0.424 | Val Bin-F1: 0.440 | Val Macro-F1: 0.423 | Best Val Macro-F1: 0.557 (Ep 1)
+Ep 49 | Train Loss: 0.0207 | Train Acc: 0.992 | Val Loss: 2.5322 | Val Acc: 0.418 | Val Bin-F1: 0.327 | Val Macro-F1: 0.407 | Best Val Macro-F1: 0.557 (Ep 1)
+Ep 50 | Train Loss: 0.0137 | Train Acc: 0.992 | Val Loss: 2.5315 | Val Acc: 0.429 | Val Bin-F1: 0.442 | Val Macro-F1: 0.429 | Best Val Macro-F1: 0.557 (Ep 1)
+
+
+=== Final Test Metrics (Best by Validation Macro-F1) ===
+Accuracy:         0.5170
+Binary Precision: 0.5166
+Binary Recall:    0.5306
+Binary F1:        0.5235
+Macro Precision:  0.5170
+Macro Recall:     0.5170
+Macro F1:         0.5169
+
+Test Confusion Matrix:
+[[74 73]
+ [69 78]]
+
+Test Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.52      0.50      0.51       147
+           1       0.52      0.53      0.52       147
+
+    accuracy                           0.52       294
+   macro avg       0.52      0.52      0.52       294
+weighted avg       0.52      0.52      0.52       294
+
